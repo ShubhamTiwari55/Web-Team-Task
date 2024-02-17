@@ -20,7 +20,7 @@ git clone <repository_url>
 2. Navigate to the project directory:
 
 ```bash
-cd web-gallery-app
+cd web-team-task
 ```
 
 3. Install dependencies:
@@ -54,7 +54,7 @@ The Carousel Gallery page presents images in a carousel format, enabling users t
 ## Technologies Used
 
 - React.js
-- CSS (or CSS-in-JS library for styling)
+- Tailwind CSS (or CSS-in-JS library for styling)
 - React Router (for navigation between gallery pages)
 
 ## Project Structure
@@ -77,10 +77,6 @@ web-gallery-app/
 │
 └── package.json
 ```
-
-## Contributors
-
-- [Your Name](https://github.com/yourusername)
 
 ## License
 
